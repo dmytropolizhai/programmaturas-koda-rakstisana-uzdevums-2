@@ -62,6 +62,8 @@ Cik pilnīgs un jēgpilns ir mājaslapas saturs:
 **Pilns punktu skaits:**  
 Mājaslapa izskatās pabeigta, funkcionāli saprotama un atbilst internetveikala tēmai.
 
+---
+
 ### 6. Darba aizstāvēšana un nodošana — **40%**  
 Cik pilnīgi Jūs spējat pārvietoties, izprast un paskaidrot savu sniegumu:
 
